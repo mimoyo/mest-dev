@@ -1,0 +1,4 @@
+.profile__user-bio {
+  display: flex;
+  flex-direction: column;
+}
